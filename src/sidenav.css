@@ -1,0 +1,33 @@
+.main-nav{
+    display: inline-flex;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: left;
+    left: 0;
+    position: fixed;
+    top: 0;
+    /* overflow: scroll; */
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+}
+/* .sideBarText p{
+     
+     top: 0px !important;
+     border: 1px solid rgb(12, 12, 12);
+} */
+.sideBarText{
+    color: seagreen;
+    text-align: justify;
+    text-justify: inter-word;
+    cursor: context-menu;
+    text-align: right;
+     white-space: nowrap;
+     top: 0;
+     height: auto;
+ 
+     
+}

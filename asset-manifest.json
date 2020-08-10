@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-components/static/css/main.41b7f8f1.chunk.css",
+    "main.js": "/react-components/static/js/main.f95596e1.chunk.js",
+    "main.js.map": "/react-components/static/js/main.f95596e1.chunk.js.map",
+    "runtime-main.js": "/react-components/static/js/runtime-main.27c2075f.js",
+    "runtime-main.js.map": "/react-components/static/js/runtime-main.27c2075f.js.map",
+    "static/css/2.a2e1afe8.chunk.css": "/react-components/static/css/2.a2e1afe8.chunk.css",
+    "static/js/2.058ae983.chunk.js": "/react-components/static/js/2.058ae983.chunk.js",
+    "static/js/2.058ae983.chunk.js.map": "/react-components/static/js/2.058ae983.chunk.js.map",
+    "index.html": "/react-components/index.html",
+    "precache-manifest.7b35ef5fe0db12a88c6edcbe0bbf1b1b.js": "/react-components/precache-manifest.7b35ef5fe0db12a88c6edcbe0bbf1b1b.js",
+    "service-worker.js": "/react-components/service-worker.js",
+    "static/css/2.a2e1afe8.chunk.css.map": "/react-components/static/css/2.a2e1afe8.chunk.css.map",
+    "static/css/main.41b7f8f1.chunk.css.map": "/react-components/static/css/main.41b7f8f1.chunk.css.map",
+    "static/media/dx.light.compact.css": "/react-components/static/media/dxicons.e7b052cb.ttf",
+    "static/media/input.css": "/react-components/static/media/preloader.6a6b95a3.gif"
+  }
+}
